@@ -1,2 +1,2 @@
 # Hacker-Rank-Python-Med-level
-This Repository Con
+This Repository Contains screenshots of 3 solved hacker rank python Medium level questions
